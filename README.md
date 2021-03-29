@@ -41,3 +41,4 @@
 - [System.ValueTuple](https://www.nuget.org/packages/System.ValueTuple) &copy; Microsoft (MIT)
 - [Unity.Abstractions](https://www.nuget.org/packages/Unity.Abstractions) &copy; Unity Open Source Project (Apache-2.0)
 - [Unity.Container](https://www.nuget.org/packages/Unity.Container) &copy; Unity Open Source Project (Apache-2.0)
+- [Gayak.ObservableDictionary](https://github.com/gayaK/Gayak.ObservableDictionary) &copy; 2017 Gaya_K (MIT)
